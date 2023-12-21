@@ -6,3 +6,10 @@ C:\Users\wesle\OneDrive\Documentos\estudos\CadastroDeClientes\CadastroDeClientes
 C:\Users\wesle\OneDrive\Documentos\estudos\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.csproj.CoreCompileInputs.cache
 C:\Users\wesle\OneDrive\Documentos\estudos\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.exe
 C:\Users\wesle\OneDrive\Documentos\estudos\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.pdb
+C:\Users\wesle\OneDrive\Documentos\ManuCodReval\RevalCadastroCliente\CadastroDeClientes\bin\Debug\CadastroDeClientes.exe.config
+C:\Users\wesle\OneDrive\Documentos\ManuCodReval\RevalCadastroCliente\CadastroDeClientes\bin\Debug\CadastroDeClientes.exe
+C:\Users\wesle\OneDrive\Documentos\ManuCodReval\RevalCadastroCliente\CadastroDeClientes\bin\Debug\CadastroDeClientes.pdb
+C:\Users\wesle\OneDrive\Documentos\ManuCodReval\RevalCadastroCliente\CadastroDeClientes\obj\Debug\CadastroDeClientes.csproj.AssemblyReference.cache
+C:\Users\wesle\OneDrive\Documentos\ManuCodReval\RevalCadastroCliente\CadastroDeClientes\obj\Debug\CadastroDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\ManuCodReval\RevalCadastroCliente\CadastroDeClientes\obj\Debug\CadastroDeClientes.exe
+C:\Users\wesle\OneDrive\Documentos\ManuCodReval\RevalCadastroCliente\CadastroDeClientes\obj\Debug\CadastroDeClientes.pdb

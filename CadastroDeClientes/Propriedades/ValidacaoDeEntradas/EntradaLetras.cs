@@ -11,7 +11,7 @@ namespace CadastroDeClientes.Propriedades.ValidacaoDeEntradas {
             string complementoValidado = "";
             do
             {
-                Console.Write("Digite o  complemento: ");
+                Console.Write("Digite o complemento: ");
                 string complemento = Console.ReadLine();
 
                 bool validacao = formatoInvalido.IsMatch(complemento);

@@ -12,7 +12,9 @@ namespace CadastroDeClientes {
             Console.WriteLine();
             #region
             List<DadosDoCliente> clientes = new List<DadosDoCliente>();
-           
+
+            string gerarId = Guid.NewGuid().ToString().Substring(0, 4); //Gera um ID e pega os 4 primeiros digitos.
+
             Console.WriteLine("REGISTRO DO PRIMEIRO NOME.");
             string auxiliarNome = EntradaNome.EntradaValida();
             Console.WriteLine();
@@ -56,6 +58,7 @@ namespace CadastroDeClientes {
 
             clientes.Add(new DadosDoCliente
             {
+                Id = gerarId,
                 Nome = auxiliarNome,
                 SobreNome = auxiliarSobreNome,
                 DataDeNascimento = auxiliarData,
@@ -69,6 +72,8 @@ namespace CadastroDeClientes {
             });
 
             Console.WriteLine("Clientes registrados:");
+            Console.WriteLine();
+
             foreach (DadosDoCliente cliente in clientes)
             {
                 Console.WriteLine($"Nome: {cliente.Nome}");
@@ -86,10 +91,10 @@ namespace CadastroDeClientes {
             #endregion
 
             // Segunda parte do programa.
+            #region
             bool validacaoOperacao = false;
             do
             {
-
                 Console.WriteLine("Digite a baixo a operação que deseja fazer!");
                 Console.WriteLine();
                 Console.WriteLine("Encerrar");
@@ -398,8 +403,8 @@ namespace CadastroDeClientes {
                     }
                 }
 
-            } while (!validacaoOperacao); 
-
+            } while (!validacaoOperacao);
+            #endregion
             Console.WriteLine("Obrigado pela oportunidade!");
             Console.WriteLine();
 

@@ -2,6 +2,7 @@
 
 namespace CadastroDeClientes.Propriedades.Cliente.PropriedadesDoCliente {
     internal class DadosDoCliente {
+        public string Id { get; set; }
         public string Nome { get; set; }
         public string SobreNome { get; set; }
         public DateTime DataDeNascimento { get; set; }
