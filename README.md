@@ -54,10 +54,6 @@ O Sistema de Cadastro de Clientes é uma aplicação de console desenvolvida em 
 3. Siga as instruções para preencher as informações do cliente.
 4. Execute operações como incluir, pesquisar, alterar ou excluir conforme necessário.
 
-1. Fork o repositório e crie um branch para suas alterações.
-2. Certifique-se de seguir as [diretrizes de contribuição](CONTRIBUTING.md).
-3. Envie um pull request descrevendo suas alterações.
-
 ## Licença
 
 Este projeto está licenciado sob a MIT License - consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
